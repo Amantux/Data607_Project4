@@ -1,0 +1,10 @@
+"0","corpus = Corpus(VectorSource(raw$tweet))"
+"0","corpus[[1]][1]"
+"1","$content
+"
+"1","[1]"
+"1"," ""ok going to bed  lol but going to Mazzio's tomorrow! YAY!!  haven't been there in forever! i love that place!"""
+"1","
+"
+"1","
+"
